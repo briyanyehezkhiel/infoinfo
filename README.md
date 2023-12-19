@@ -1,11 +1,11 @@
 # infoinfopedia
 
-link youtube : [InfoInfoPedia](https://youtu.be/Un8_49EBll0)
-Link Web     : [InfoInfoPedia](https://infoinfopedia.kesug.com/login.php)
-Kelompok : Lukman Nur Hakim (221401084) dan Briyan Yehezkhiel (221401089) 
+link youtube : [InfoInfoPedia](https://youtu.be/Un8_49EBll0).
+Link Web     : [InfoInfoPedia](https://infoinfopedia.kesug.com/login.php).
+Kelompok : Lukman Nur Hakim (221401084) dan Briyan Yehezkhiel (221401089).
 
 ![WhatsApp Image 2023-12-19 at 20 01 52_bc3c4116](https://github.com/briyanyehezkhiel/infoinfopedia/assets/114645700/c4385c41-5a62-4f3d-b830-5a5fc5570145) 
-
+Login
 
 
 ![WhatsApp Image 2023-12-19 at 20 02 32_c6013f28](https://github.com/briyanyehezkhiel/infoinfopedia/assets/114645700/dd0e55b0-b81d-47bf-8e0b-7b00e7ff5770) 
