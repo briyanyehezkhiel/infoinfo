@@ -4,7 +4,7 @@
 Kelompok :  
 * Lukman Nur Hakim (221401084)  
 * Briyan Yehezkhiel (221401089)  
-
+ 
 ![WhatsApp Image 2023-12-19 at 20 01 52_bc3c4116](https://github.com/briyanyehezkhiel/infoinfopedia/assets/114645700/c4385c41-5a62-4f3d-b830-5a5fc5570145) 
 Login
 
